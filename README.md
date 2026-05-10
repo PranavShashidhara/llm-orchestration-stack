@@ -1,4 +1,4 @@
-# LLM Orchestration Platform (D-LOP)
+# LLM Orchestration Platform (LOP)
 
 An end-to-end LLM fine-tuning and inference platform for SQL generation built around **Llama-3.1 8B-Instruct**, using QLoRA fine-tuning, 4-bit quantization, and scalable multi-GPU inference with vLLM.
 
